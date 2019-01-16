@@ -1,0 +1,4 @@
+après ces exercices je dois :
+-cloner le repository blockly games
+-créer une branche et faire mes propres modifications
+
